@@ -1,5 +1,5 @@
 <!--
-    File Name   : index.php
+    File Name   : upload_file.php
     Description : Upload any file/image to a folder and show all the images of that folder 
     Author      : Maniruzzaman Akash
 -->
